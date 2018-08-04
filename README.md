@@ -12,7 +12,7 @@
 
 
 主要接口
-============l=
+=============
 
 - 热销商品列表: http://apiv3.yangkeduo.com/v5/goods?page=页码&size=条数
   - page:默认从第一页开始
